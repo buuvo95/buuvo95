@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @buuvo95
-- 👀 I’m interested in Machine Learning engineering
-- 🌱 I’m currently focusing on learning knowledge about ML engineering
 - 📫 Reach me buuvo95@gmail.com
 
 <!---
